@@ -1,0 +1,24 @@
+{
+  "name": "onikami-phaser-lib",
+  "version": "0.1.0",
+  "description": "A library to accelerate the development of game projects created with Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramonlopez/onikami-phaser-lib.git"
+  },
+  "keywords": [
+    "Games",
+    "Javascript",
+    "Phaser"
+  ],
+  "author": "M. Ramon Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mramonlopez/onikami-phaser-lib/issues"
+  },
+  "homepage": "https://github.com/mramonlopez/onikami-phaser-lib#readme"
+}
